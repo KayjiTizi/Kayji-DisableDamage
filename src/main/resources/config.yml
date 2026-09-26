@@ -1,0 +1,3 @@
+plugin_enabled: true
+disable_tnt_damage: true
+disable_respawn_anchor_damage: true
